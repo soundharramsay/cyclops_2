@@ -1,6 +1,11 @@
 # cyclops_2
-/home/sor4003/store_sor4003/wang_wan_et_al_dec2021_molcell_RNAstructure/cyclops/cyclops_2
 
+
+
+/home/sor4003/store_sor4003/wang_wan_et_al_dec2021_molcell_RNAstructure/cyclops/cyclops_2
+using DataFrames, Statistics, StatsBase, LinearAlgebra, MultivariateStats, PyPlot, Distributed, Random, CSV, Revise, Distributions, Dates, MultipleTesting
+## error ----by revise is not solved 
+         ----- u can drop pks that are not necessiary even you can drop any plotting packages 
 #####
 base_path = "/home/sor4003/store_sor4003/wang_wan_et_al_dec2021_molcell_RNAstructure/cyclops/cyclops_2"
 
